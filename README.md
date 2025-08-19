@@ -1,11 +1,13 @@
 # Hello, welcome to my github profil!
 
-<i>So my name is</i> <h4> HENINTSOAMAMPIONONA Nirinaharinaivo Sedera </h4>, 
-I try to be a good developer. 
-
+<i>So my name is</i> <h4> HENINTSOAMAMPIONONA Nirinaharinaivo Sedera </h4>,
+I try to be a good developer.
 
 ### 💻 Tech Stack:
-![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white) !![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white) ! ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) 
+
+![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white) 
+ ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=white) 
+ ![Python](https://img.shields.io/badge/python-%2314354C.svg?logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
 ### 📊 GitHub Stats:
 
@@ -25,4 +27,3 @@ I try to be a good developer.
 <!-- activity streak-stats end -->
 
 <!-- activity github-stats start -->
-
