@@ -24,7 +24,4 @@ I try to be a good developer.
 <!-- activity graph heroku-app end -->
 
 <!-- activity streak-stats start -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sederahenintsoa&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD5007" style="width: 70%"/></p>
-<!-- activity streak-stats end -->
-
-<!-- activity github-stats start -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sederahenintsoa" style="width: 70%"/></p>
