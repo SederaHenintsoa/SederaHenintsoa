@@ -1,8 +1,9 @@
 # Hello, welcome to my github profil!
 
-<i>So my name is</i> <h4> HENINTSOAMAMPIONONA Nirinaharinaivo Sedera </h4>,
+<i>So my name is</i> <h4> * HENINTSOAMAMPIONONA Nirinaharinaivo Sedera </h4>,
 I try to be a good developer.
 
+* Enjoy to see my profil page
 ### 💻 Tech Stack:
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white) ![Fedora MATE](https://img.shields.io/badge/Fedora%20MATE-51A2DA.svg?logo=fedora&logoColor=white)
