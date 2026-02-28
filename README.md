@@ -9,7 +9,7 @@ I try to be a good developer.
 ![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white) ![Fedora MATE](https://img.shields.io/badge/Fedora%20MATE-51A2DA.svg?logo=fedora&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white) ![JavaEE](https://img.shields.io/badge/JavaEE-007396.svg?logo=java&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white) ![JavaEE](https://img.shields.io/badge/JavaEE-007396.svg?logo=java&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali-262626?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### 📊 GitHub Stats:
 
