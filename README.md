@@ -11,7 +11,7 @@ I try to be a good developer.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white) ![JavaEE](https://img.shields.io/badge/JavaEE-007396.svg?logo=java&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali-262626?style=for-the-badge&logo=kalilinux&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![ORM](https://img.shields.io/badge/ORM-4A4A4A.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![ORM](https://img.shields.io/badge/ORM-4A4A4A.svg?style=for-the-badge&logo=databricks&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📊 GitHub Stats:
 
